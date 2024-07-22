@@ -1,5 +1,5 @@
 {
-  "name": "@asuna/koishi-plugin-daily-news",
+  "name": "@asuna-bot/koishi-plugin-daily-news",
   "description": "每日新闻",
   "version": "0.0.1",
   "main": "lib/index.js",
